@@ -25,7 +25,7 @@ A global open-source community dedicated to simplifying and improving the authen
 | [`@react-native-auth/google`](https://github.com/react-native-auth/google)                             | In Progress  | Google authentication module for React Native.                                      |
 | *`@react-native-auth/core`, `apple`, `kakao`, `naver`*                                                 | Planned |                               |
 
-*For the most up-to-date information, check our [GitHub organization](https://github.com/react-native-auth)*
+*For the most up-to-date information, check our [Organization's Discussions](https://github.com/orgs/react-native-auth/discussions)*
 
 ---
 
