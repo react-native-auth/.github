@@ -1,10 +1,10 @@
 <div align="center">
 
-# @react-native-auth
+# React Native Auth
 
 <img src="https://avatars.githubusercontent.com/u/254466332" alt="react-native-auth logo" height="120">
 
-**Making authentication easy in React Native!**  
+**Make your authentication easy in React Native**  
 A global open-source community dedicated to simplifying and improving the authentication experience in React Native.
 
 ---
