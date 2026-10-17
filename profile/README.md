@@ -2,7 +2,7 @@
  <a href="https://github.com/react-native-auth">
   <img src="@react-native-auth.png"
     alt="React Native Auth Logo"
-    width="200"
+    width="100"
   />
  </a>
 </p>
