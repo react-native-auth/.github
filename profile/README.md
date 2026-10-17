@@ -12,7 +12,3 @@
 #### A modern, developer- and user-friendly authentication library for React Native.
 
 Explore our [repositories](https://github.com/orgs/react-native-auth/repositories) to view the available authentication providers.
-
----
-
-> A subsidiary of @treeentertainment
